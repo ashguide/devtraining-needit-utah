@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>2,5,7,10</choices>
+        <description>Number of days notice to give Employees for their colleagues special days</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.daysNotice</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>daysNotice</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 08:33:55</sys_created_on>
+        <sys_id>a749c79e932102101d027fddfaba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysNotice</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_a749c79e932102101d027fddfaba100e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 08:33:55</sys_updated_on>
+        <type>string</type>
+        <value>7</value>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=a749c79e932102101d027fddfaba100e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ba93428adbd6795092f5684e139619d9</instance_id>
+        <instance_name>dev205425</instance_name>
+        <name>sys_properties_a749c79e932102101d027fddfaba100e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>2,5,7,10</choices><description>Number of days notice to give Employees for their colleagues special days</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.daysNotice</name><read_roles>x_58872_needit.admin</read_roles><suffix>daysNotice</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 08:33:55</sys_created_on><sys_id>a749c79e932102101d027fddfaba100e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.daysNotice</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_a749c79e932102101d027fddfaba100e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 08:33:55</sys_updated_on><type>string</type><value>7</value><write_roles>x_58872_needit.admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=a749c79e932102101d027fddfaba100e"/></record_update>]]></payload>
+        <payload_hash>-1105271025</payload_hash>
+        <record_name>x_58872_needit.daysNotice</record_name>
+        <reverted_from/>
+        <source>80437a39932902101d027fddfaba1094</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 08:33:56</sys_created_on>
+        <sys_id>eeba479e932102101d027fddfaba10c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee60a91b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 08:33:56</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>e2ba479eaa210210c9530819bd1cc0c8</update_guid>
+        <update_guid_history>e2ba479eaa210210c9530819bd1cc0c8:-1105271025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 16:40:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>2ba6b901d3124c988bd17cc91d6b40a4</sys_id>
+        <sys_metadata>a749c79e932102101d027fddfaba100e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysNotice</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_a749c79e932102101d027fddfaba100e</sys_update_name>
+        <sys_update_version display_value="sys_properties_a749c79e932102101d027fddfaba100e">eeba479e932102101d027fddfaba10c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 16:40:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
